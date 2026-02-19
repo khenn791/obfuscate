@@ -2,4 +2,4 @@
 
 getgenv().khen was here = function() end
 local _v1 = require("lune")
-local _v = task.wait(0)
+-- has been dtc
